@@ -1,3 +1,11 @@
+### vscode打开此处的工程
+下载了工程之后，在amy-app目录，打开 cmd 命令窗口运行下面的命令：
+```bash
+npm install
+```
+安装package.json里面的相关运行模块。
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
